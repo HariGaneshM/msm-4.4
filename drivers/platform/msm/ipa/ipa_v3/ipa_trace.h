@@ -149,5 +149,5 @@ TRACE_EVENT(
 
 /* This part must be outside protection */
 #undef TRACE_INCLUDE_PATH
-#define TRACE_INCLUDE_PATH .
+#define TRACE_INCLUDE_PATH /home/HariGanesh/Downloads/ASUS_X00T-16.2017.2009.087-kernel/msm-4.4/drivers/platform/msm/ipa/ipa_v3/
 #include <trace/define_trace.h>

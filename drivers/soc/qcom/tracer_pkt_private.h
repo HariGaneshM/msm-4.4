@@ -15,7 +15,7 @@
 #undef TRACE_SYSTEM
 #define TRACE_SYSTEM tracer_pkt
 #undef TRACE_INCLUDE_PATH
-#define TRACE_INCLUDE_PATH .
+#define TRACE_INCLUDE_PATH /home/HariGanesh/Downloads/ASUS_X00T-16.2017.2009.087-kernel/msm-4.4/drivers/soc/qcom/
 #undef TRACE_INCLUDE_FILE
 #define TRACE_INCLUDE_FILE tracer_pkt_private
 
